@@ -160,3 +160,7 @@ table#report_list .report_action {
 ore {
     font-family: "Hiragino Kaku Gothic Pro",,Meiryo,"MS PGothic",Helvetica,Atial,sans-serif;
 }
+
+h3 {
+    font-size: larger;
+}
